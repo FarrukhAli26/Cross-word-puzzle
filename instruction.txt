@@ -1,0 +1,17 @@
+INSTRUCTIONS:
+
+ => Choose an option from the menu.
+
+ => In Quick play, you'll see a maze. Find a word, enter it, and press Enter.
+
+ => If your answer is correct, your score increases by 1. Otherwise, your lives decrease by 1.
+
+ => To pass each level you have to make 5 words, and save your life.
+
+ => The twist in the game is that, if you re-enter the word that is found, your live will be decremented by 1.
+
+ => Enter your choice as a digit and press Enter.
+
+ => To change the console color, select Settings, then go to Change Color, choose your color, and press Enter.
+
+ => To go to the main menu press Enter.
